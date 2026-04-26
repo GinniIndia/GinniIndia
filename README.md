@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ginni Garg
 
-🚀 **Software Engineer | AI & NLP Specialist | Backend Systems Expert**
+🚀 **Software Engineer | AI & NLP Specialist | Backend Systems Expert | Software Security**
 
 ---
 
